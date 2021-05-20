@@ -1,0 +1,9 @@
+### Python ###
+*.pyc
+__ pycache __
+config.py
+### Django ###
+*.log
+db.sqlite3
+/static
+/media
